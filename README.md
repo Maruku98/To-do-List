@@ -7,10 +7,11 @@ This is my second React project. Even though it may seem such a simple project, 
 My to-do list features a `regex` non-ASCII characters detector, a duplicate task detector, and much more!
 
 ## PROGRAMMING LANGUAGES USED
-- HTML5
-- CSS3
-- JavaScript ES6
-- React :electron:
+- **HTML5**
+- **CSS3**
+- **JavaScript ES6**
+- **React** :electron:
+- **Node.js** (to build the app)
 
 ## FEATURES
 ### Overall behavior
